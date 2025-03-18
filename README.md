@@ -82,6 +82,10 @@ This Streamlit application allows users to generate images using OpenAI's DALL-E
     * Handles the button click event and calls `generate_images()`.
     * Displays the generated image.
     * Adds tips for better image results.
+ 
+## Result
+
+![Image](https://github.com/user-attachments/assets/422ea1f7-1ce5-4fb1-96d7-70f7400d8eeb)
 
 ## Contributing
 
